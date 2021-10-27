@@ -3,6 +3,7 @@
 Projeto criado com  [Create React App](https://github.com/facebook/create-react-app).
 - Renderizar um array de objetos de Produtos 
 - Estilização com styled-components
+- Deploy na Vercel:  [Clique aqui](https://teste-frontend-virid.vercel.app/)
 
 - 🚧 Em construção
 ## Como Rodar
